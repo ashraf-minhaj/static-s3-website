@@ -1,7 +1,7 @@
 # Create and Host a static website on AWS s3 with Terraform
 
 # Step by Step guidelines 
-- Full tutorial on my [dev.to/ashraf-minhaj](https://dev.to/ashraf-minhaj) blog. Enjoy.
+- Full tutorial on my [dev.to/ashraf-minhaj](https://dev.to/ashraf-minha) blog post, [click here](https://dev.to/ashraf-minhaj/static-website-on-s3-using-terraform-16e4). Enjoy.
 
 # Steps
 - clone this repository
